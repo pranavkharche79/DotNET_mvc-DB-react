@@ -1,0 +1,34 @@
+﻿@using System.Collections.Generic;
+@using BOL;
+
+@{
+    ViewData["Title"] = "Product Catalog Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">PRODUCT TABLE</h1>
+   @{
+        List<Product> allProducts=(List<Product>)this.ViewData["allProducts"];
+        <div>
+        <table border="2px">
+            <tr>
+                <th>Productid</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Picture</th>
+                <th>Unitprice</th>
+            </tr>
+        @{foreach( Product p in allProducts)
+        {
+            <tr>
+                <td>@p.Productid</td>
+                <td>@p.Title </td>
+                <td>@p.Description</td>
+                <td><img src="@p.Picture" alt="image not rendered" width="150" height="150"/></td>
+                <td>@p.Unitprice </td>
+            </tr>
+        }}
+        </table>
+        </div>
+   }
+</div>  
