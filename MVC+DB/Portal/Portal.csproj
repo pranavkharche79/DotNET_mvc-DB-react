@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BOL\BOL.csproj" />
     <ProjectReference Include="..\BLL\BLL.csproj" />
+    <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
