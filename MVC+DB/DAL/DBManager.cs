@@ -4,7 +4,7 @@ using BOL;
 using MySql.Data.MySqlClient;
 
 public class DBManager{
-    public static string conString="server=168.192.10.139;port=3306;user=root;password=welcome;database=riderpoint";
+    public static string conString="server=localhost;port=3306;user=root;password=welcome;database=riderpoint";
      public  static bool ValidateUser(string uname,string pass){
             MySqlConnection con=new MySqlConnection();
             con.ConnectionString=conString;
