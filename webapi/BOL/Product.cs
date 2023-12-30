@@ -18,6 +18,13 @@ public class Product
         this.unitprice=unitprice;
     }
 
+    public Product(int productId, string title,string description,int unitprice){
+        this.productid = productId;
+        this.title = title;
+        this.description=description;
+        this.unitprice=unitprice;
+    }
+
     // public Product(int productId, string title,string description){
     //     this.productid = productId;
     //     this.title = title;
