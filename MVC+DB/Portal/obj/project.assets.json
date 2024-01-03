@@ -1845,11 +1845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
+      "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
       "projectName": "Portal",
-      "projectPath": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
+      "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
       "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\obj\\",
+      "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1864,14 +1864,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj"
+            "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+            "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Abhishek\\OneDrive\\Desktop\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj"
+            "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj"
             }
           }
         }

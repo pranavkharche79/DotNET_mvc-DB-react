@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\Abhishek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\BOL.csproj",
+      "projectUniqueName": "D:\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\BOL.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\obj\\",
+      "projectPath": "D:\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\BOL.csproj",
+      "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNET_mvc-DB-react\\Pranav_DotNet\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
