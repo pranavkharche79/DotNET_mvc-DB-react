@@ -1,0 +1,76 @@
+@{
+    ViewData["Title"] = "Insert Page";
+}
+
+<legend>Add Employee</legend>
+<form method="post">
+    <div class="insert">
+        <div class="form-group">
+            <label class=" col-md-4 control-label">ID</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                    <input name="id" placeholder="1..." class="form-control" type="number" required >
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label">Name</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                    <input name="name" placeholder="Name" class="form-control" type="text" required>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label">Email</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                    <input name="email" placeholder="enter email" class="form-control" type="email">
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="col-md-4 control-label">Number</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                    <input name="num" placeholder="enter number" class="form-control" type="number" required>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="col-md-4 control-label">Gender</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                    <input name="gender" placeholder="male/female" class="form-control" type="text" maxlength="6" required>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="col-md-4 control-label">Address</label>
+            <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                    <input name="address" placeholder="enter address" class="form-control" type="text">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label"></label>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-warning">Insert<span
+                        class="glyphicon glyphicon-send"></span></button>
+            </div>
+        </div>
+    </div>
+</form>

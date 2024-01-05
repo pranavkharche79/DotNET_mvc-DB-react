@@ -15,20 +15,44 @@ public class EmployeeController : Controller
         _logger = logger;
     }
 
+    public IActionResult DisplayAll()
+    {
+        Console.WriteLine("Displayall");
+        EmployeeService es = new EmployeeService();
+        List<Employee> lst = es.GetAllEmployees();
+        ViewData["displayall"] = lst;
+        return View();
+    }
+
     public IActionResult Insert()
     {
         return View();
     }
-    public IActionResult DisplayAll()
+    [HttpPost]
+    public IActionResult Insert(int id, string name, string email, string num, string gender, string address)
     {
-        EmployeeService es = new EmployeeService();
-        List<Employee> lst = es.GetAllEmployees();
-        return View(lst);
+        EmployeeService pd = new EmployeeService();
+        bool status = pd.AddProduct(id, name, email, num, gender, address);
+        if (status)
+        {
+            return this.RedirectToAction("DisplayAll");
+        }
+        return View();
     }
+
+    [Route("Employee/Update/{id}")]
+    public IActionResult Update(int id)
+    {
+        
+        return View();
+    }
+
+    [HttpPatch]
     public IActionResult Update()
     {
         return View();
     }
+
     public IActionResult Delete()
     {
         return View();
