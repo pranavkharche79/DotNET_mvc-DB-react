@@ -1806,11 +1806,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
       "projectName": "DAL",
       "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\obj\\",
+=======
+      "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\obj\\",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1825,8 +1833,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
               "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+=======
+            "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
             }
           }
         }

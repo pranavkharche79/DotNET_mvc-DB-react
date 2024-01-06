@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "08dB7wh4vxgTWYTF+ePIOTSUTlt0bDFnJ/kJi74qZ/iqS26zX7ZFzMFngDtd0J7pbCVcOQPY+7RxfHQIIW4ftg==",
   "success": true,
   "projectFilePath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+=======
+  "dgSpecHash": "Zb2vJ+Q6TTCrps0meH0ka8jWEbps2HpUXX21N3fxWmyD3LAJrHH5WI1n5f/7re8ee0pXEh2krbvaSykzPPF0dQ==",
+  "success": true,
+  "projectFilePath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BLL
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\IET\Pictures\DotNET_mvc-DB-react\MVC+DB\BLL\
+=======
+build_property.ProjectDir = D:\DotNET_mvc-DB-react\MVC+DB\BLL\
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

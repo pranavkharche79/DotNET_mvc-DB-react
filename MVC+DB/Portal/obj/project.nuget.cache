@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wrHXBc8tQa8OSVr5mlKd27zIfgOAAuH+rA+afjNriRQCcVwVyHzZIjuV4L9l9K9ZRMOwGw4rAavizzVyejtsBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
+=======
+  "dgSpecHash": "zQYPzw6DUyAL3rLPD9FxORBC7fbvvR2piD779+i3dj0twhPhFAIdReRvbDPf6Nz3Wk9Ps5O0/T5cGi5vszYSqg==",
+  "success": true,
+  "projectFilePath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\Portal\\Portal.csproj",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
   "expectedPackageFiles": [
     "C:\\Users\\IET\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\IET\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

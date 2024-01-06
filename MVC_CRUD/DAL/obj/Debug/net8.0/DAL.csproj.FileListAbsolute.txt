@@ -1,0 +1,16 @@
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\bin\Debug\net8.0\DAL.dll
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\bin\Debug\net8.0\DAL.pdb
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\bin\Debug\net8.0\BOL.dll
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\bin\Debug\net8.0\BOL.pdb
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.dll
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\DAL.pdb
+D:\DotNET_mvc-DB-react\MVC_CRUD\DAL\obj\Debug\net8.0\ref\DAL.dll

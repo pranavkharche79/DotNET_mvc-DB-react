@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
       "projectName": "BOL",
       "projectPath": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\obj\\",
+=======
+      "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+      "projectName": "BOL",
+      "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+      "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\obj\\",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"

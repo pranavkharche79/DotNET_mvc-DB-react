@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\obj\\",
+=======
+    "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+        "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BLL\\obj\\",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +40,19 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
                 "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
               },
               "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
                 "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj"
+=======
+              "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+              },
+              "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj"
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
               }
             }
           }
@@ -64,6 +86,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -72,6 +95,16 @@
         "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\obj\\",
+=======
+    "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+        "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\obj\\",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,6 +150,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -125,6 +159,16 @@
         "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\obj\\",
+=======
+    "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+        "outputPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\DAL\\obj\\",
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -139,8 +183,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
                 "projectPath": "C:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+=======
+              "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\DotNET_mvc-DB-react\\MVC+DB\\BOL\\BOL.csproj"
+>>>>>>> cf0ce221c71f368f235674ab0bc75dd17116a0b2
               }
             }
           }

@@ -1,0 +1,63 @@
+@using System.Collections.Generic;
+@using BOL;
+
+
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/products.css" asp-append-version="true" />
+</head>
+
+
+@{
+    List<Employee> allProd = ViewData["displayall"] as List<Employee>;
+}
+<div class="text-center">
+<body>
+    <div>
+        <table class="container">
+            <thead>
+                <tr>
+                    <th>
+                        <h3>Id</h3>
+                    </th>
+                    <th>
+                        <h3>Name</h3>
+                    </th>
+                    <th>
+                        <h3>Email</h3>
+                    </th>
+                    <th>
+                        <h3>Gender</h3>
+                    </th>
+                    <th>
+                        <h3>Address</h3>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (Employee p in allProd)
+                {
+                    <tr >
+                        <td>@p.Eid</td>
+                        <td>@p.Ename</td>
+                        <td>@p.Eemail</td>
+                        <td>@p.Egender</td>
+                        <td>@p.Eaddress</td>
+                        <td><a href="Update/@p.Eid" name="id" value="@p.Eid">Edit</a> / <a href="Delete/@p.Eid"
+                                name="id">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+        <a href="Insert"><button style="background-color: black; color: white; border-radius: 45%; border: 3px; ">Add Product</button></a>
+        
+
+</body>
+</div>
