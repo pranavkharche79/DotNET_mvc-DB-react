@@ -50,9 +50,9 @@ export default function GetAllProducts() {
         <input type='number'  min="1" value={but} onChange={(e)=>{
           setbut(e.target.value);
           console.log(e.target.value);
-        }}/>
-        <button onClick={()=>searchbyid(but)}>Submit</button>
-        <button onClick={getallproducts} >clear</button>
+        }} placeholder="Search.." name="search"/>
+        <button onClick={()=>searchbyid(but)} class="btn btn-success">Submit</button>
+        <button onClick={getallproducts} class="btn btn-warning" >clear</button>
         {data.map((obj)=>{
           return(
           <>

@@ -8,7 +8,7 @@ Console.WriteLine("Welcome to the Program");
 IDBManager dbm=new DBManager();
 
 bool status=true;
-// Console based Menu driven User Interface
+
 while(status)
 {
     Console.WriteLine("Choose Option :");

@@ -39,7 +39,6 @@ public class ProductsController : Controller
         }
     }
 
-
     // [HttpPost] 
     // [Route("api/[controller]")]
     //  public IEnumerable<Product> func1(){

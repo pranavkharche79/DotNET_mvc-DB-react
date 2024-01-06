@@ -1785,19 +1785,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abhishek\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNET_mvc-DB-react\\Day 10\\webapp\\webapp.csproj",
+      "projectUniqueName": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Day 10\\webapp\\webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "D:\\DotNET_mvc-DB-react\\Day 10\\webapp\\webapp.csproj",
-      "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNET_mvc-DB-react\\Day 10\\webapp\\obj\\",
+      "projectPath": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Day 10\\webapp\\webapp.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\IET\\Pictures\\DotNET_mvc-DB-react\\Day 10\\webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

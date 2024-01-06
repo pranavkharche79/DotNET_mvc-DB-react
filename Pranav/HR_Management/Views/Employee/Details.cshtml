@@ -1,0 +1,16 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+
+    @foreach(Employee obj in Model)
+    {
+        <p>@obj.Id</p>
+        <p>@obj.Name</p>
+        <p>@obj.Email</p>
+        <p>@obj.Number</p>
+        <a href="Edit/@obj.Id" name="id" value="obj.Id">Edit</a>  <a href="Delete/@obj.Id" name="id">Delete</a>
+    }
+
+    <a href="insert"><button>Add Employee</button></a>

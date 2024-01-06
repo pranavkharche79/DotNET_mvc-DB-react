@@ -3,7 +3,7 @@ namespace PlainWebAPI.DAL;
 using MySql.Data.MySqlClient;
 public class DBManager{
     
-    public static string conString=@"server=localhost;port=3306;user=root;password=9325874707;database=ecommerce";       
+    public static string conString=@"server=localhost;port=3306;user=root;password=welcome;database=ecommerce";       
     public  static List<Product> GetAllProducts(){
            List<Product> allProduct=new List<Product>();
             MySqlConnection con=new MySqlConnection();
@@ -21,8 +21,7 @@ public class DBManager{
                     string title = reader["title"].ToString();
                     string description = reader["description"].ToString();
                      int unitprice = int.Parse(reader["unitprice"].ToString());
-                     string picture = reader["picture"].ToString();
-                    Product prod=new Product(productid,title,picture,description,unitprice);
+                    Product prod=new Product(productid,title,description,unitprice);
 
                     allProduct.Add(prod);
                 }
@@ -56,8 +55,7 @@ public class DBManager{
                     string title = reader["title"].ToString();
                     string description = reader["description"].ToString();
                      int unitprice = int.Parse(reader["unitprice"].ToString());
-                     string picture = reader["picture"].ToString();
-                    prod=new Product(productid,title,picture,description,unitprice);
+                    prod=new Product(productid,title,description,unitprice);
                 }
             }
             catch(Exception ee){
